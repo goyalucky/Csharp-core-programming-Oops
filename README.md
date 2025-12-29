@@ -1,4 +1,4 @@
-# csharp-core-programming-oops
+# Csharp-core-programming-oops
 
 This repository focuses on **Object-Oriented Programming (OOP) concepts in C#**, covering beginner to intermediate level practice problems. The goal of this project is to strengthen core OOP fundamentals through structured, hands-on coding examples.
 
