@@ -1,0 +1,14 @@
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\bin\Debug\net8.0\SchoolAssociationAggregation.exe
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\bin\Debug\net8.0\SchoolAssociationAggregation.deps.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\bin\Debug\net8.0\SchoolAssociationAggregation.runtimeconfig.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\bin\Debug\net8.0\SchoolAssociationAggregation.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\bin\Debug\net8.0\SchoolAssociationAggregation.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\obj\Debug\net8.0\SchoolAssociationAggregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\obj\Debug\net8.0\SchoolAssociationAggregation.AssemblyInfoInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\obj\Debug\net8.0\SchoolAssociationAggregation.AssemblyInfo.cs
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\obj\Debug\net8.0\SchoolAssociationAggregation.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\obj\Debug\net8.0\SchoolAssociationAggregation.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\obj\Debug\net8.0\refint\SchoolAssociationAggregation.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\obj\Debug\net8.0\SchoolAssociationAggregation.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\obj\Debug\net8.0\SchoolAssociationAggregation.genruntimeconfig.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\SchoolAssociationAggregation\obj\Debug\net8.0\ref\SchoolAssociationAggregation.dll
