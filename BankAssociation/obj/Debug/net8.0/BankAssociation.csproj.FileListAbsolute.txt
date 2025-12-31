@@ -1,0 +1,14 @@
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\bin\Debug\net8.0\BankAssociation.exe
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\bin\Debug\net8.0\BankAssociation.deps.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\bin\Debug\net8.0\BankAssociation.runtimeconfig.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\bin\Debug\net8.0\BankAssociation.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\bin\Debug\net8.0\BankAssociation.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\obj\Debug\net8.0\BankAssociation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\obj\Debug\net8.0\BankAssociation.AssemblyInfoInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\obj\Debug\net8.0\BankAssociation.AssemblyInfo.cs
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\obj\Debug\net8.0\BankAssociation.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\obj\Debug\net8.0\BankAssociation.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\obj\Debug\net8.0\refint\BankAssociation.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\obj\Debug\net8.0\BankAssociation.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\obj\Debug\net8.0\BankAssociation.genruntimeconfig.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\BankAssociation\obj\Debug\net8.0\ref\BankAssociation.dll
