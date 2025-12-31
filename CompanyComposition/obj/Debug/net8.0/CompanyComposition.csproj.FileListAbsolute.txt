@@ -1,0 +1,14 @@
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\bin\Debug\net8.0\CompanyComposition.exe
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\bin\Debug\net8.0\CompanyComposition.deps.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\bin\Debug\net8.0\CompanyComposition.runtimeconfig.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\bin\Debug\net8.0\CompanyComposition.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\bin\Debug\net8.0\CompanyComposition.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\obj\Debug\net8.0\CompanyComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\obj\Debug\net8.0\CompanyComposition.AssemblyInfoInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\obj\Debug\net8.0\CompanyComposition.AssemblyInfo.cs
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\obj\Debug\net8.0\CompanyComposition.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\obj\Debug\net8.0\CompanyComposition.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\obj\Debug\net8.0\refint\CompanyComposition.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\obj\Debug\net8.0\CompanyComposition.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\obj\Debug\net8.0\CompanyComposition.genruntimeconfig.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\CompanyComposition\obj\Debug\net8.0\ref\CompanyComposition.dll
