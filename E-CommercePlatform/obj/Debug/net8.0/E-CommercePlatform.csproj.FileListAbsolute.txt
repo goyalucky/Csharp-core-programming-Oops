@@ -1,0 +1,14 @@
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\bin\Debug\net8.0\E-CommercePlatform.exe
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\bin\Debug\net8.0\E-CommercePlatform.deps.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\bin\Debug\net8.0\E-CommercePlatform.runtimeconfig.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\bin\Debug\net8.0\E-CommercePlatform.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\bin\Debug\net8.0\E-CommercePlatform.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\obj\Debug\net8.0\E-CommercePlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\obj\Debug\net8.0\E-CommercePlatform.AssemblyInfoInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\obj\Debug\net8.0\E-CommercePlatform.AssemblyInfo.cs
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\obj\Debug\net8.0\E-CommercePlatform.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\obj\Debug\net8.0\E-CommercePlatform.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\obj\Debug\net8.0\refint\E-CommercePlatform.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\obj\Debug\net8.0\E-CommercePlatform.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\obj\Debug\net8.0\E-CommercePlatform.genruntimeconfig.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\E-CommercePlatform\obj\Debug\net8.0\ref\E-CommercePlatform.dll
