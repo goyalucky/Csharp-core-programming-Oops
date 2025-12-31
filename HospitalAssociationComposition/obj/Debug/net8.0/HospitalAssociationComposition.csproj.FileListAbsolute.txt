@@ -1,0 +1,14 @@
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\bin\Debug\net8.0\HospitalAssociationComposition.exe
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\bin\Debug\net8.0\HospitalAssociationComposition.deps.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\bin\Debug\net8.0\HospitalAssociationComposition.runtimeconfig.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\bin\Debug\net8.0\HospitalAssociationComposition.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\bin\Debug\net8.0\HospitalAssociationComposition.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\obj\Debug\net8.0\HospitalAssociationComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\obj\Debug\net8.0\HospitalAssociationComposition.AssemblyInfoInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\obj\Debug\net8.0\HospitalAssociationComposition.AssemblyInfo.cs
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\obj\Debug\net8.0\HospitalAssociationComposition.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\obj\Debug\net8.0\HospitalAssociationComposition.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\obj\Debug\net8.0\refint\HospitalAssociationComposition.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\obj\Debug\net8.0\HospitalAssociationComposition.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\obj\Debug\net8.0\HospitalAssociationComposition.genruntimeconfig.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\HospitalAssociationComposition\obj\Debug\net8.0\ref\HospitalAssociationComposition.dll
