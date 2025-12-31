@@ -1,0 +1,14 @@
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\bin\Debug\net8.0\UniversityManagement.exe
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\bin\Debug\net8.0\UniversityManagement.deps.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\bin\Debug\net8.0\UniversityManagement.runtimeconfig.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\bin\Debug\net8.0\UniversityManagement.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\bin\Debug\net8.0\UniversityManagement.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\obj\Debug\net8.0\UniversityManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\obj\Debug\net8.0\UniversityManagement.AssemblyInfoInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\obj\Debug\net8.0\UniversityManagement.AssemblyInfo.cs
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\obj\Debug\net8.0\UniversityManagement.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\obj\Debug\net8.0\UniversityManagement.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\obj\Debug\net8.0\refint\UniversityManagement.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\obj\Debug\net8.0\UniversityManagement.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\obj\Debug\net8.0\UniversityManagement.genruntimeconfig.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\UniversityManagement\obj\Debug\net8.0\ref\UniversityManagement.dll
