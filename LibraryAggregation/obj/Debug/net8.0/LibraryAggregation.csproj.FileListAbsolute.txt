@@ -1,0 +1,14 @@
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\bin\Debug\net8.0\LibraryAggregation.exe
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\bin\Debug\net8.0\LibraryAggregation.deps.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\bin\Debug\net8.0\LibraryAggregation.runtimeconfig.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\bin\Debug\net8.0\LibraryAggregation.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\bin\Debug\net8.0\LibraryAggregation.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\obj\Debug\net8.0\LibraryAggregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\obj\Debug\net8.0\LibraryAggregation.AssemblyInfoInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\obj\Debug\net8.0\LibraryAggregation.AssemblyInfo.cs
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\obj\Debug\net8.0\LibraryAggregation.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\obj\Debug\net8.0\LibraryAggregation.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\obj\Debug\net8.0\refint\LibraryAggregation.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\obj\Debug\net8.0\LibraryAggregation.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\obj\Debug\net8.0\LibraryAggregation.genruntimeconfig.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Object-Modeling\LibraryAggregation\obj\Debug\net8.0\ref\LibraryAggregation.dll
