@@ -180,6 +180,241 @@ It also introduces **instance vs class members** and **access modifiers**, stren
 
 ---
 
+---
+
+### 🔹 `keywords` branch
+This branch focuses on understanding and applying important **C# keywords** such as `static`, `this`, `readonly`, and the `is` operator through **real-world, object-oriented programs**.  
+These programs help strengthen clarity on **shared data, object initialization, immutability, and type checking**.
+
+#### 📁 Levels
+- ## 📘 Level 01 - keywords practices
+---
+
+## 📝 Practice Programs
+
+### 🏦 Bank Account System
+- Create a `BankAccount` class to manage bank accounts.
+- Use:
+  - `static` variable `bankName` shared across all accounts.
+  - `static` method `GetTotalAccounts()` to display total accounts.
+  - `this` keyword to resolve ambiguity while initializing `AccountHolderName` and `AccountNumber`.
+  - `readonly` variable `AccountNumber` to prevent modification after assignment.
+  - `is` operator to verify if an object is a `BankAccount` before displaying details.
+
+---
+
+### 📚 Library Management System
+- Create a `Book` class to manage library books.
+- Use:
+  - `static` variable `LibraryName` shared across all books.
+  - `static` method `DisplayLibraryName()` to display library name.
+  - `this` keyword to initialize `Title`, `Author`, and `ISBN`.
+  - `readonly` variable `ISBN` to ensure book identity remains unchanged.
+  - `is` operator to check if an object is a `Book` before displaying details.
+
+---
+
+### 🧑‍💼 Employee Management System
+- Design an `Employee` class to manage employee records.
+- Use:
+  - `static` variable `CompanyName` common for all employees.
+  - `static` method `DisplayTotalEmployees()` to show employee count.
+  - `this` keyword to initialize `Name`, `Id`, and `Designation`.
+  - `readonly` variable `Id` to prevent modification.
+  - `is` operator to validate employee objects before printing details.
+
+---
+
+### 🛒 Shopping Cart System
+- Create a `Product` class to manage shopping cart items.
+- Use:
+  - `static` variable `Discount` shared among all products.
+  - `static` method `UpdateDiscount()` to modify discount percentage.
+  - `this` keyword to initialize `ProductName`, `Price`, and `Quantity`.
+  - `readonly` variable `ProductID` for unique product identification.
+  - `is` operator to validate product objects before processing.
+
+---
+
+### 🎓 University Student Management
+- Create a `Student` class to manage student records.
+- Use:
+  - `static` variable `UniversityName` shared by all students.
+  - `static` method `DisplayTotalStudents()` to show enrollment count.
+  - `this` keyword to initialize `Name`, `RollNumber`, and `Grade`.
+  - `readonly` variable `RollNumber` to ensure immutability.
+  - `is` operator to validate student objects before operations.
+
+---
+
+### 🚗 Vehicle Registration System
+- Create a `Vehicle` class to manage vehicle registrations.
+- Use:
+  - `static` variable `RegistrationFee` common to all vehicles.
+  - `static` method `UpdateRegistrationFee()` to modify the fee.
+  - `this` keyword to initialize `OwnerName`, `VehicleType`, and `RegistrationNumber`.
+  - `readonly` variable `RegistrationNumber` for unique identification.
+  - `is` operator to verify vehicle objects before displaying details.
+
+---
+
+### 🏥 Hospital Management System
+- Create a `Patient` class to manage hospital patient data.
+- Use:
+  - `static` variable `HospitalName` shared among all patients.
+  - `static` method `GetTotalPatients()` to count admitted patients.
+  - `this` keyword to initialize `Name`, `Age`, and `Ailment`.
+  - `readonly` variable `PatientID` to uniquely identify patients.
+  - `is` operator to validate patient objects before displaying details.
+
+---
+
+## 🎯 Learning Outcomes
+
+- Understanding shared vs object-specific data using `static`
+- Using `this` keyword to resolve naming conflicts
+- Enforcing immutability with `readonly`
+- Performing safe type checking using the `is` operator
+- Applying C# keywords in real-world OOP scenarios
+
+---
+
+### 🔹 `📊diagrams` branch
+This branch contains **UML diagrams** created to visually represent system design and object interactions for various problem statements.  
+The diagrams help in understanding **class structure, object relationships, and execution flow** before implementation.
+
+🛠 **Tool Used:** Lucidchart  
+📐 **Diagram Types Covered:** Class Diagram, Object Diagram, Sequence Diagram
+
+---
+
+## 📘 Sample Problem 1: School Results Application
+
+### 🧩 Class Diagram
+**Classes Involved:**
+- Student
+- Subject
+- GradeCalculator
+
+**Relationships:**
+- A `Student` has multiple `Subject` entries (**Aggregation**).
+- `GradeCalculator` computes results for a `Student`.
+
+---
+
+### 🧱 Object Diagram
+**Example Objects:**
+- Student: `John`
+- Subjects:
+  - Maths → Marks: 90
+  - Science → Marks: 85
+
+---
+
+### 🔄 Sequence Diagram
+**Scenario:**
+- A student requests their grade based on marks obtained in subjects.
+
+**Actors:**
+- Student
+- GradeCalculator
+
+**Flow:**
+1. Student submits subject marks and request for grade calculation.
+2. GradeCalculator processes marks.
+3. Final grade is returned to the student.
+
+---
+
+## 📘 Sample Problem 2: Grocery Store Bill Generation Application
+
+### 🧩 Class Diagram
+**Classes Involved:**
+- Customer
+- Product
+- BillGenerator
+
+**Relationships:**
+- A `Customer` purchases multiple `Product` items (**Composition**).
+- `BillGenerator` calculates the total bill for the customer.
+
+---
+
+### 🧱 Object Diagram
+**Example Objects:**
+- Customer: `Alice`
+- Products:
+  - Apples → 2 kg @ $3/kg
+  - Milk → 1 liter @ $2/liter
+
+---
+
+### 🔄 Sequence Diagram
+**Scenario:**
+- A customer checks out at the grocery store and receives the final bill.
+
+**Actors:**
+- Customer
+- BillGenerator
+
+**Flow:**
+1. Customer selects products and then checkout.
+2. BillGenerator calculates item-wise cost.
+3. Total bill amount is generated and displayed.
+
+---
+
+## 🎯 Learning Outcomes
+
+- Understanding system design using UML diagrams
+- Visualizing object relationships and lifecycles
+- Learning aggregation vs composition
+- Mapping real-world scenarios to class structures
+- Improving design clarity before coding
+
+---
+
+### 🔹 `object-modelling` branch
+This branch focuses on **object-oriented design and modeling real-world systems** using core OOP relationships such as **Association, Aggregation, and Composition**.  
+The problems emphasize how objects interact, depend on each other, and communicate within a system.
+
+---
+
+## 📝 Practice Problems
+
+- **Library and Books (Aggregation)**  
+  Model a library that contains multiple books where books can exist independently.
+
+- **Bank and Account Holders (Association)**  
+  Represent the association between a bank and its customers who open and manage accounts.
+
+- **Company and Departments (Composition)**  
+  Design a company where departments and employees cannot exist without the company.
+
+- **School, Students, and Courses (Association & Aggregation)**  
+  Model a school system where students enroll in multiple courses using many-to-many relationships.
+
+- **University, Faculties, and Departments (Composition & Aggregation)**  
+  Create a university where departments depend on it, while faculty members exist independently.
+
+- **Hospital, Doctors, and Patients (Association & Communication)**  
+  Represent doctor–patient consultations with multiple doctors and patients interacting.
+
+- **E-Commerce Platform (Customers, Orders, and Products)**  
+  Design an e-commerce system where customers place orders and orders aggregate products.
+
+---
+
+## 🎯 Learning Outcomes
+
+- Understand and apply **association, aggregation, and composition**
+- Model **real-world object relationships**
+- Practice **object communication through methods**
+- Improve **system design and UML understanding**
+- Strengthen **object-oriented thinking**
+
+---
+
 ## 👤 Author
 **Lucky Goyal**  
 B.Tech CSE (Artificial Intelligence and Machine Learning)  
