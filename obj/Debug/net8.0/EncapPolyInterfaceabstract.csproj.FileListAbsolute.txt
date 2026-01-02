@@ -1,0 +1,14 @@
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\bin\Debug\net8.0\EncapPolyInterfaceabstract.exe
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\bin\Debug\net8.0\EncapPolyInterfaceabstract.deps.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\bin\Debug\net8.0\EncapPolyInterfaceabstract.runtimeconfig.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\bin\Debug\net8.0\EncapPolyInterfaceabstract.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\bin\Debug\net8.0\EncapPolyInterfaceabstract.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\obj\Debug\net8.0\EncapPolyInterfaceabstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\obj\Debug\net8.0\EncapPolyInterfaceabstract.AssemblyInfoInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\obj\Debug\net8.0\EncapPolyInterfaceabstract.AssemblyInfo.cs
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\obj\Debug\net8.0\EncapPolyInterfaceabstract.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\obj\Debug\net8.0\EncapPolyInterfaceabstract.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\obj\Debug\net8.0\refint\EncapPolyInterfaceabstract.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\obj\Debug\net8.0\EncapPolyInterfaceabstract.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\obj\Debug\net8.0\EncapPolyInterfaceabstract.genruntimeconfig.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\EncapPolyInterfaceabstract\obj\Debug\net8.0\ref\EncapPolyInterfaceabstract.dll
