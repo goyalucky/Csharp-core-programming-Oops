@@ -479,6 +479,57 @@ The practice problems emphasize core OOP concepts such as **polymorphism, method
 
 ---
 
+---
+
+### 🔹 `oops-pillars` Branch
+This branch focuses on mastering the **four pillars of Object-Oriented Programming**: **Abstraction, Encapsulation, Inheritance, and Polymorphism** using C#.
+The programs are designed around **real-world systems** and demonstrate how abstract classes, interfaces, access control, and runtime polymorphism work together to build scalable and maintainable applications.
+
+---
+
+## 📝 Practice Problems
+
+- **Employee Management System**  
+  Implements abstraction using an abstract `Employee` class, encapsulation through
+  properties, interfaces for department handling, and polymorphism to process different
+  employee types dynamically.
+
+- **E-Commerce Platform**  
+  Models products using abstract classes and interfaces to calculate tax and discounts,
+  showcasing polymorphism in final price computation across product categories.
+
+- **Vehicle Rental System**  
+  Demonstrates abstract vehicle pricing logic, insurance handling via interfaces, and
+  polymorphism to calculate rental and insurance costs for different vehicle types.
+
+- **Banking System**  
+  Uses abstract bank accounts with secure balance handling, interface-based loan features,
+  and polymorphism for interest calculation across account types.
+
+- **Library Management System**  
+  Applies abstraction to library items, encapsulation for borrower data, interfaces for
+  reservations, and polymorphism to manage books, magazines, and DVDs uniformly.
+
+- **Online Food Delivery System**  
+  Models food items using abstraction and interfaces for discounts, allowing dynamic
+  handling of veg and non-veg items through polymorphism.
+
+- **Hospital Patient Management System**  
+  Implements abstraction for patient billing, encapsulation for medical records, interfaces
+  for record management, and polymorphism to handle inpatient and outpatient workflows.
+
+---
+
+## 🎯 Learning Outcomes
+
+- Apply all **four OOP pillars** cohesively in real-world scenarios
+- Design systems using **abstract classes and interfaces**
+- Secure data using **encapsulation and access modifiers**
+- Implement **runtime polymorphism** using base-class references
+- Build **scalable and maintainable object-oriented applications**
+
+---
+
 ## 👤 Author
 **Lucky Goyal**  
 B.Tech CSE (Artificial Intelligence and Machine Learning)  
