@@ -415,6 +415,70 @@ The problems emphasize how objects interact, depend on each other, and communica
 
 ---
 
+---
+
+### 🔹 `inheritance` Branch
+This branch focuses on **Inheritance in Object-Oriented Programming (OOP)** using C#. It demonstrates how classes can **reuse, extend, and override behavior** through **single, hierarchical, multilevel, and hybrid inheritance**. 
+The practice problems emphasize core OOP concepts such as **polymorphism, method overriding, base–derived class relationships, and interface-based design**.
+
+---
+
+## 📝 Practice Problems
+
+### 🔸 Hierarchical Inheritance
+
+- **Animal Hierarchy**  
+  Create an `Animal` base class with `Dog`, `Cat`, and `Bird` subclasses that override
+  behavior to demonstrate polymorphism.
+
+- **Employee Management System**  
+  Model different employee types (`Manager`, `Developer`, `Intern`) inheriting from a
+  common `Employee` class with role-specific attributes and behaviors.
+
+- **Vehicle and Transport System**  
+  Design a `Vehicle` hierarchy (`Car`, `Truck`, `Motorcycle`) and demonstrate dynamic
+  method dispatch using polymorphism.
+
+- **Bank Account Types System**  
+  Model a banking system where `SavingsAccount`, `CheckingAccount`, and
+  `FixedDepositAccount` inherit from a common `BankAccount` superclass.
+
+---
+
+### 🔸 Single Inheritance
+
+- **Library Management with Books and Authors**  
+  Implement single inheritance where `Author` extends `Book` and displays combined
+  book and author information.
+
+---
+
+### 🔸 Multilevel Inheritance
+
+- **Online Retail Order Management**  
+  Build a multilevel hierarchy (`Order → ShippedOrder → DeliveredOrder`) to represent
+  the order lifecycle and status tracking.
+
+---
+
+### 🔸 Hybrid Inheritance (Using Interfaces)
+
+- **Restaurant Management System**  
+  Simulate hybrid inheritance using a `Person` superclass and a `Worker` interface
+  implemented by `Chef` and `Waiter` classes.
+
+---
+
+## 🎯 Learning Outcomes
+
+- Understand **code reuse and extensibility using inheritance**
+- Apply **method overriding and runtime polymorphism**
+- Design **single, hierarchical, and multilevel class structures**
+- Simulate **multiple inheritance using interfaces**
+- Model **real-world problems using OOP principles**
+
+---
+
 ## 👤 Author
 **Lucky Goyal**  
 B.Tech CSE (Artificial Intelligence and Machine Learning)  
