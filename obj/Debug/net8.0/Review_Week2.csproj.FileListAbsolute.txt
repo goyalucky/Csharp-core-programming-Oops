@@ -1,0 +1,14 @@
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\obj\Debug\net8.0\Review_Week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\obj\Debug\net8.0\Review_Week2.AssemblyInfoInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\obj\Debug\net8.0\Review_Week2.AssemblyInfo.cs
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\obj\Debug\net8.0\Review_Week2.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\bin\Debug\net8.0\Review_Week2.exe
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\bin\Debug\net8.0\Review_Week2.deps.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\bin\Debug\net8.0\Review_Week2.runtimeconfig.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\bin\Debug\net8.0\Review_Week2.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\bin\Debug\net8.0\Review_Week2.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\obj\Debug\net8.0\Review_Week2.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\obj\Debug\net8.0\refint\Review_Week2.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\obj\Debug\net8.0\Review_Week2.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\obj\Debug\net8.0\Review_Week2.genruntimeconfig.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Oops\Review_Week2\obj\Debug\net8.0\ref\Review_Week2.dll
